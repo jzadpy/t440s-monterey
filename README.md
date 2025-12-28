@@ -2,6 +2,8 @@
 
 OpenCore EFI configuration for **Lenovo ThinkPad T440s**, tested and used as a **daily driver**.
 
+** When downloaded, create an EFI folder and paste BOOT and OC folders **
+
 ---
 
 ## 💻 Hardware Specs
