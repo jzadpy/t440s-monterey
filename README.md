@@ -1,5 +1,8 @@
 # Lenovo ThinkPad T440s Hackintosh
 
+<img width="1127" height="487" alt="image" src="https://github.com/user-attachments/assets/a84598ee-fc79-406d-8c34-4bcbf9bcf358" />
+
+
 OpenCore EFI configuration for **Lenovo ThinkPad T440s**, tested and used as a **daily driver**.
 
 ** When downloaded, create an EFI folder and paste BOOT and OC folders **
