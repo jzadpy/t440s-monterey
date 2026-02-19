@@ -1,8 +1,9 @@
 # Lenovo ThinkPad T440s Hackintosh
 
-<img width="1127" height="487" alt="image" src="https://github.com/user-attachments/assets/a84598ee-fc79-406d-8c34-4bcbf9bcf358" />
+####### **VENTURA VERSION - NEEDS OCLP** ########
 
-(i used MultimediaLucario Repository for the image)
+
+<img width="1127" height="487" alt="image" src="https://github.com/user-attachments/assets/a84598ee-fc79-406d-8c34-4bcbf9bcf358" />
 
 OpenCore EFI configuration for **Lenovo ThinkPad T440s**, tested and used as a **daily driver**.
 
@@ -34,7 +35,6 @@ OpenCore EFI configuration for **Lenovo ThinkPad T440s**, tested and used as a *
 - System Stability (usable as daily driver)
 - Ethernet
 - WiFi (via **HeliPort / itlwm**)
-- Mini DisplayPort
 - FN Keys:
   - Volume
   - Brightness
@@ -47,13 +47,14 @@ OpenCore EFI configuration for **Lenovo ThinkPad T440s**, tested and used as a *
 - Other FN Keys
 - iServices out of the box  
   - Requires **manual SMBIOS / iServices patching**
-
+- Mini DP (Didnt test) 
 ---
 
 ## ⚠️ Important Notes
 - This EFI is **NOT plug & play**
 - **You MUST generate your own SMBIOS** before using it
 - Do **NOT** reuse serial numbers
+- please patch using **OCLP**
 - WiFi works using **HeliPort**, since Intel cards are not natively supported by macOS
 
 ---
